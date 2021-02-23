@@ -1,0 +1,11 @@
+HELP.md
+.gradle
+build/
+.settings/
+bin
+gradlew
+gradlew.bat
+*.log
+.classpath
+.project
+*.swp
